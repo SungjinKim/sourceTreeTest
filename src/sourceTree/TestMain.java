@@ -7,6 +7,8 @@ public class TestMain {
 		System.out.println("test");
 		System.out.println("update test");
 		System.out.println("second update test");
+		
+		System.out.println("일상업무 추가");
 	}
 
 }
