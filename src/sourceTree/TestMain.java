@@ -19,6 +19,8 @@ public class TestMain {
 
 		System.out.println("실험 브랜치2 추가");
 		System.out.println("충돌");
+		
+		System.out.println("충돌해결");
 	}
 
 }
