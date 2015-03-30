@@ -26,6 +26,7 @@ public class TestMain {
 		
 		System.out.println("push");
 		System.out.println("");
+		System.out.println("push, pull");
 
 	}
 
