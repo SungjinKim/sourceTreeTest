@@ -1,4 +1,4 @@
-package sourceTree;
+﻿package sourceTree;
 
 public class TestMain {
 
@@ -27,6 +27,7 @@ public class TestMain {
 		System.out.println("push");
 		System.out.println("");
 		System.out.println("push, pull");
+		System.out.println("push, pull2");
 
 	}
 
