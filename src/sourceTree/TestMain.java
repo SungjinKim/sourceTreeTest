@@ -18,7 +18,7 @@ public class TestMain {
 		System.out.println("브랜치 충돌 확인");
 
 		System.out.println("실험 브랜치2 추가");
-
+		System.out.println("충돌");
 	}
 
 }
