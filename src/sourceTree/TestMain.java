@@ -25,6 +25,7 @@ public class TestMain {
 		System.out.println("원격저장소");
 		
 		System.out.println("push");
+		System.out.println("");
 
 	}
 
